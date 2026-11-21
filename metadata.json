@@ -1,0 +1,6 @@
+{
+  "name": "ChakaiGo",
+  "description": "Hyperlocal food and kirana grocery delivery app for Chakai (Jamui, Bihar) and surrounding villages within 20 km, featuring Customer, Restaurant, Kirana, Delivery Partner, and Admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

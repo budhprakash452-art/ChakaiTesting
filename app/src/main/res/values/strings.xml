@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChakaiGo</string>
+    <string name="app_name_hindi">चकाईगो</string>
+    <string name="app_tagline">चकाई और 20 किमी के गाँवों में खाना और किराना डिलीवरी</string>
+    <string name="demo_credentials_label">Demo Number: +91 9999999911 | OTP: 123456</string>
+    <string name="auto_fill_demo_login">Auto-Fill Demo Login</string>
+    <string name="send_otp_cta">Send OTP (ओटीपी भेजें)</string>
+    <string name="verify_otp_cta">Verify &amp; Continue</string>
+    <string name="admin_login_label">Admin Login (एडमिन लॉगिन)</string>
+    <string name="switch_role_label">Switch Role</string>
+    <string name="pending_approval_hindi">आपका रजिस्ट्रेशन एडमिन अप्रूवल के लिए पेंडिंग है</string>
+</resources>
